@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wassim Touyar
-- I'm a data science and data engineering student
+- I'm a data engineering student
 - I also love learning about the high level and low level stuff in programming
 - I code in Python 🐍, C, Go and pretty much anything that's interesting and would get the job done.
 <!---
